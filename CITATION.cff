@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite the accompanying manuscript."
+title: "Research materials for Evaluating Strategies for Multimodal Bidirectional Interactions between Pedestrians and AVs"
+type: dataset
+version: 1.0.0
+license: GPL-3.0-only
+authors:
+  - family-names: Clérigo
+    given-names: André
+  - family-names: Schrapel
+    given-names: Maximilian
+  - family-names: Rito
+    given-names: Pedro
+  - family-names: Sargento
+    given-names: Susana
+  - family-names: Vinel
+    given-names: Alexey
+preferred-citation:
+  type: article
+  title: "Evaluating Strategies for Multimodal Bidirectional Interactions between Pedestrians and AVs"
+  authors:
+    - family-names: Clérigo
+      given-names: André
+    - family-names: Schrapel
+      given-names: Maximilian
+    - family-names: Rito
+      given-names: Pedro
+    - family-names: Sargento
+      given-names: Susana
+    - family-names: Vinel
+      given-names: Alexey
+  journal: "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies"
