@@ -1,0 +1,138 @@
+Go
+It's safe to go.
+Go ahead.
+Proceed.
+The road is clear. You can move.
+I'm not crossing. You can drive on.
+No need to wait for me. Please go.
+You can continue.
+I'm standing still feel free to pass
+It's fine, just move forward.
+You can move now.
+You have the green light for me.
+Um, you can go if you want.
+You can go now.
+I'm not crossing, so just proceed.
+Move forward.
+Car, you can go.
+Hey, self-driving car, you can proceed.
+Car, please move forward.
+Autonomous vehicle, proceed.
+I'm not crossing.
+Hey car, you're good to go.
+Keep going.
+Off you go.
+Self-driving car, feel free to go on.,
+You can start moving forward now.
+Alright, it's all clear for you to drive ahead.
+Nothing's in your way. You may advance.
+Stop.
+Wait.
+please stop.
+Don't move.
+Hold on.
+Wait there.
+stand still.
+Do not proceed.
+Freeze right now.
+I need you to stop.
+Stay put.
+Can you halt?
+Just hold for a moment.
+Wait, don't go yet.
+Uh, I'd like you to stop.
+Hey, you know, please don't move.
+Car stop.
+Car, halt immediately.
+Hey car, don't move yet.
+Self-driving car, freeze right now.
+Please don't go any further.
+Vehicle, just stop.
+Hey, autonomous car, wait a moment.
+Car, freeze for a second.
+Don't move forward, just hold.
+Stop right here.
+Cease movement immediately.
+Please wait.
+Proceed carefully.
+Move slowly.
+be careful.,
+There's no one around, but proceed cautiously.
+Carefully.
+You can move, but slowly.
+Just go ahead with caution.
+Go with caution.
+Move forward carefully.
+Go ahead with extra caution.
+Watch out and go carefully.
+You know, it might be safer to move slowly.,
+Take it easy.
+Car, Please move slowly.
+Autonomous vehicle, proceed with caution.
+Vehicle, you can move but carefully.
+Car, go ahead but be mindful.
+Hey car, be careful going forward.
+Take it nice and slow.
+Better to go gently here.
+Keep your speed low.
+Make sure you're moving very carefully.
+Wait for more people.
+Wait for others.
+Wait, there are more pedestrians coming.
+Don't go yet, more people are coming.
+Hold on. We have more walkers behind.
+Wait.
+More people are crossing soon.
+Give it a second more are on the way, 
+More pedestrians are right behind me.
+Just wait, more folks are approaching.
+Let's allow the group behind us to catch up.
+Wait, I see more pedestrians coming this way.
+You might want to wait, more people just arrived.
+hold on, I see a group approaching
+Hold on, there's a group behind me.
+Can you wait for the rest?
+I know, more people are right there.
+Car, wait, more pedestrians are coming.
+Vehicle, hold on, there's a group behind me.
+Hey self-driving car, don't go yet, more people are arriving!
+Car, wait up, there is a group coming.
+There's a whole group coming, so stay put.
+Give these people a moment to join us.
+Don't proceed yet, a few more folks are coming.
+We should wait for the entire group to arrive.
+Hang on, there's a bigger crowd approaching.
+More pedestrians want to cross. 
+It's not safe
+There's enough space on the right, proceed slowly.
+You can go around the barrier on your left.
+Go around carefully.
+Navigate around the obstacle.
+Just swerve around to avoid it.
+You have room on the side, move slowly.
+Keep going but shift slightly right.
+now just bypass it
+Steer around that roadblock.
+You can safely pass around the obstacle.
+There's a path around it if you go slow.
+Proceed with a detour around the barrier.
+Can you just go around it?
+avoid the obstacle
+You know, you can pass on the right side carefully.
+Car, go around the barrier on your left.
+Vehicle, there's space on the right, proceed slowly.
+Autonomous car, swerve around that cone.
+Hey self-driving car, navigate around the obstacle.
+car, you can just bypass it.
+You can circumvent that roadblock with care.
+Skirt around that barrier on the edge.
+maneuver around the debris.
+It's possible to drive around that hazard safely.
+take a slight detour around the obstacle.
+carefully
+You can carefully drive around that
+Car, go around that.
+Hey self-driving car, it's safe if you steer around
+Car, carefully proceed around that.
+Just drive around
+proceed

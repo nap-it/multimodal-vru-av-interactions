@@ -1,0 +1,138 @@
+go
+it's safe to go
+go ahead
+proceed
+the road is clear, you can move
+I'm not crossing, you can drive on
+no need to wait for me, please go
+you can continue
+I'm standing still, feel free to pass
+it's fine, just move forward
+you can move now
+you have the green light from me
+umm, you can go if you want
+you can go now
+I'm not crossing, so just proceed
+move forward
+car, you can go
+hey, self-driving car, you can proceed
+car, please move forward
+autonomous vehicle, proceed
+I'm not crossing
+hey car, you're good to go
+keep going
+off you go
+self-driving car, feel free to go on
+you can start moving forward now
+alright, it's all clear for you to drive ahead
+nothing's in your way, you may advance
+stop
+wait
+please stop
+don't move
+hold on
+wait there
+stand still
+do not proceed
+freeze right now
+I need you to stop
+stay put
+can you halt?
+just hold for a moment
+wait, don't go yet
+uh, I'd like you to stop
+hey, you know, please don't move
+car stop
+car, halt immediately
+hey car, don't move yet
+self-driving car, freeze right now
+car, please don't go any further
+vehicle, just stop
+hey, autonomous car, wait a moment
+car, freeze for a second
+don't move forward, just hold
+stop right here
+cease movement immediately
+please, wait
+proceed carefully
+move slowly
+be careful
+there's no one around, but proceed cautiously
+carefully
+you can move but slowly
+just go ahead with caution
+go with caution
+move forward carefully
+go ahead with extra caution
+watch out and go carefully
+you know, it might be safer to move slowly
+take it easy
+car, please move slowly
+autonomous vehicle, proceed with caution
+vehicle, you can move but carefully
+car, go ahead but be mindful
+hey car, be careful going forward
+take it nice and slow
+better to go gently here
+keep your speed low
+make sure you're moving very carefully
+wait for more people
+wait for others
+wait, there are more pedestrians coming
+don't go yet, more people are coming
+hold on, we have more walkers behind
+wait for a group
+more people are crossing soon
+give it a second, more are on the way
+more pedestrians are right behind me
+just wait, more folks are approaching
+let's allow the group behind us to catch up
+wait, I see more pedestrians coming this way
+you might want to wait, more people just arrived
+hold on, I see a group of people approaching
+hold on, there's a group behind me
+can you wait for the rest?
+you know, more people are right there
+car, wait, more pedestrians are coming
+vehicle, hold on, there's a group behind me
+hey self-driving car, don't go yet, more people are arriving
+car, wait up, there is a group comming
+there's a whole group coming, so stay put
+give these people a moment to join us
+don't proceed yet, a few more folks are coming
+we should wait for the entire group to arrive
+hang on, there's a bigger crowd approaching
+more pedestrians want to cross
+it's not safe yet
+there's enough space on the right, proceed slowly
+you can go around the barrier on your left
+go around carefully
+navigate around the obstacle
+just swerve around to avoid it
+you have room on the side, move slowly
+keep going but shift slightly right
+no need to stop, just bypass it
+steer around that roadblock
+you can safely pass around the obstacle
+there's a path around it if you go slow
+proceed with a detour around the barrier
+can you just go around it?
+avoid the obstacle
+you know, you can pass on the right side carefully
+car, go around the barrier on your left
+vehicle, there's space on the right, proceed slowly
+autonomous car, swerve around that cone
+hey self-driving car, navigate around the obstacle
+car, you can just bypass it carefully
+you can circumvent that roadblock with care
+skirt around that barrier on the edge
+just maneuver around the debris carefully
+it's possible to drive around that hazard safely
+take a slight detour to avoid it
+carefully go around
+umm, you can carefully drive around that
+car, go around that
+hey self-driving car, it's safe if you steer around
+car, carefully proceed around that
+just drive around it now
+proceed around that
