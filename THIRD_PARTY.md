@@ -25,13 +25,3 @@ Dataset compiled by Justin Salamon, Christopher Jacoby, and Juan Pablo Bello. Pl
 > Salamon, J., Jacoby, C., & Bello, J. P. (2014). A Dataset and Taxonomy for Urban Sound Research. Proceedings of the 22nd ACM International Conference on Multimedia, 1041–1044. <https://doi.org/10.1145/2647868.2655045>
 
 Dataset and license information: <https://urbansounddataset.weebly.com/urbansound8k.html>
-
-The original local metadata and `FREESOUNDCREDITS.txt` were not retained with the derived track, so the exact underlying Freesound clip IDs could not be reconstructed. The repository therefore supplies dataset-level attribution but cannot provide a per-clip credit ledger.
-
-## Questionnaire media
-
-The recovered GIFs, MP3 prompts, and overview images in `questionnaire/stimuli/original_media/` were supplied by the study authors. Their original repository material is covered by the root GPL-3.0 license.
-
-## LimeSurvey
-
-The `.lss` and `.xml` files are instrument exports. LimeSurvey application code and themes are not included.

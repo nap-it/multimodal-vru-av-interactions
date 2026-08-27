@@ -27,4 +27,4 @@ The quantitative survey table contains only new participant IDs, broad demograph
 
 ## Citation and licensing
 
-The authors' original repository material is licensed under GPL-3.0, matching SafeARCross. Third-party material retains its own terms, including CC BY 4.0 for FLEURS and CC BY-NC 3.0 for UrbanSound8K-derived audio. See [`LICENSE`](LICENSE), [`LICENSES/README.md`](LICENSES/README.md), and [`THIRD_PARTY.md`](THIRD_PARTY.md). Citation metadata are in [`CITATION.cff`](CITATION.cff).
+The authors' original repository material is licensed under GPL-3.0. Third-party material retains its own terms, including CC BY 4.0 for FLEURS and CC BY-NC 3.0 for UrbanSound8K-derived audio. See [`LICENSE`](LICENSE), [`LICENSES/README.md`](LICENSES/README.md), and [`THIRD_PARTY.md`](THIRD_PARTY.md). Citation metadata are in [`CITATION.cff`](CITATION.cff).
