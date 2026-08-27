@@ -1,0 +1,12 @@
+modality,category,n,provenance
+AR,participants providing any AR comment,29,manuscript aggregate
+AR,traffic-light ambiguity or pedestrian-specific symbol,18,reconstructed response-level audit matching manuscript count
+AR,crosswalk presentation or orientation,8,reconstructed response-level audit matching manuscript count
+AR,combine or layer visual cues,6,reconstructed response-level audit matching manuscript count
+Voice,participants providing any voice comment,13,manuscript aggregate
+Voice,command phrasing or acoustic distinctness,4,reconstructed response-level audit matching manuscript count
+Voice,detailed-command ambiguity or coordination burden,4,reconstructed response-level audit matching manuscript count
+Voice,reliability misuse or conflicting-command concerns,6,reconstructed response-level audit matching manuscript count
+Gesture,participants providing any gesture comment,16,manuscript aggregate
+Gesture,overlapping form or motion,8,reconstructed response-level audit matching manuscript count
+Gesture,simpler faster or one-handed gestures,3,reconstructed response-level audit matching manuscript count

@@ -1,0 +1,1556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questionnaire id="687253">
+  <title>Interações Multimodais com Veículos Autónomos</title>
+  <investigator/>
+  <dataCollector/>
+  <questionnaireInfo>
+    <position>before</position>
+    <text>&lt;p&gt;Imagine que está a caminhar numa cidade onde os veículos autónomos (VAs) comunicam em tempo real com os peões. O nosso estudo explora como a Realidade Aumentada (RA), a voz e os gestos podem ajudá-lo a interagir de forma segura com os VAs.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Ao participar, estará a contribuir para o futuro destas interações.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;O que pode esperar:&lt;/p&gt;&#13;
+&#13;
+&#13;
+	Será apresentado(a) a uma série de conceitos de interação em forma de vídeos ou exemplos visuais.&#13;
+	Irá classificar estas interações individualmente e compará-las entre si.&#13;
+	Terá oportunidade de partilhar as suas opiniões e comentários.&#13;
+&#13;
+&#13;
+&lt;p&gt;Duração Estimada: ~10 minutos
+&#13;
+ &lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;O seu feedback é essencial para o sucesso do nosso estudo e para impulsionar esta área de pesquisa inovadora.&lt;/p&gt;</text>
+    <administration>self</administration>
+  </questionnaireInfo>
+  <questionnaireInfo>
+    <position>after</position>
+    <text>&lt;p&gt;Obrigado(a) por concluir o nosso inquérito! O seu contributo é inestimável para nos ajudar a compreender e melhorar as interações com veículos autónomos.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Tem mais ideias ou comentários sobre este tema? Ficaremos muito felizes em ouvi-lo(a)! Não hesite em entrar em contacto comigo por meio de andreclerigo@ua.pt.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Mais uma vez, agradecemos profundamente o seu tempo e as suas opiniões!&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Obrigado novamente e espero poder contar contigo noutras iniciativas no futuro!&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt; &lt;/p&gt;</text>
+    <administration>self</administration>
+  </questionnaireInfo>
+  <section id="58550">
+    <sectionInfo>
+      <position>title</position>
+      <text>Demografia do Participante</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <question>
+      <text>Qual é a sua idade?</text>
+      <response varName="age">
+        <fixed>
+          <category>
+            <label>Menos de 18 anos</label>
+            <value>A1</value>
+          </category>
+          <category>
+            <label>18 - 24 anos</label>
+            <value>A2</value>
+          </category>
+          <category>
+            <label>25 - 34 anos</label>
+            <value>A3</value>
+          </category>
+          <category>
+            <label>35 - 44 anos</label>
+            <value>A4</value>
+          </category>
+          <category>
+            <label>44 - 54 anos</label>
+            <value>A5</value>
+          </category>
+          <category>
+            <label>55 - 64 anos</label>
+            <value>A6</value>
+          </category>
+          <category>
+            <label>65 anos ou mais</label>
+            <value>A7</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Com que género se identifica?</text>
+      <response varName="gender">
+        <fixed>
+          <category>
+            <label>Masculino</label>
+            <value>A1</value>
+          </category>
+          <category>
+            <label>Feminino</label>
+            <value>A2</value>
+          </category>
+          <category>
+            <label>Outro</label>
+            <value>A3</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Qual é a sua profissão?</text>
+      <response varName="profession">
+        <free>
+          <format>longtext</format>
+          <length>24</length>
+          <label/>
+        </free>
+      </response>
+    </question>
+  </section>
+  <section id="58551">
+    <sectionInfo>
+      <position>title</position>
+      <text>Afinidade para a Interação Tecnológica</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <sectionInfo>
+      <position>before</position>
+      <text>&lt;p&gt;De seguida, iremos fazer-lhe perguntas sobre a sua interação com sistemas tecnológicos. O termo "sistema tecnológico" refere-se a apps e a outras aplicações informáticas, bem como a dispositivos digitais [e.g., telemóvel, computador, televisão, sistemas de navegação automóvel (GPS)].&lt;/p&gt;</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <question>
+      <text>Por favor, indique em que medida concorda com as seguintes afirmações.</text>
+      <subQuestion varName="ati_SQ001">
+        <text>Gosto de me ocupar com os detalhes dos sistemas tecnológicos.</text>
+      </subQuestion>
+      <subQuestion varName="ati_SQ002">
+        <text>Gosto de testar as funções dos novos sistemas tecnológicos.</text>
+      </subQuestion>
+      <subQuestion varName="ati_SQ003">
+        <text>Lido com sistemas tecnológicos predominantemente porque tenho de fazê-lo.</text>
+      </subQuestion>
+      <subQuestion varName="ati_SQ004">
+        <text>Quando recebo um novo sistema tecnológico, experimento-o intensamente.</text>
+      </subQuestion>
+      <subQuestion varName="ati_SQ005">
+        <text>Gosto de passar tempo a familiarizar-me com um novo sistema tecnológico.</text>
+      </subQuestion>
+      <subQuestion varName="ati_SQ006">
+        <text>Para mim é suficiente que um sistema tecnológico funcione; não me interessa como nem porquê.</text>
+      </subQuestion>
+      <subQuestion varName="ati_SQ007">
+        <text>Tento compreender como funciona exatamente um sistema tecnológico.</text>
+      </subQuestion>
+      <subQuestion varName="ati_SQ008">
+        <text>Para mim é suficiente conhecer as funções básicas de um sistema tecnológico.</text>
+      </subQuestion>
+      <subQuestion varName="ati_SQ009">
+        <text>Tento aproveitar o máximo partido das capacidades de um sistema tecnológico.</text>
+      </subQuestion>
+      <response varName="ati">
+        <fixed>
+          <category>
+            <label>discordo completamente</label>
+            <value>A1</value>
+          </category>
+          <category>
+            <label>discordo fortemente</label>
+            <value>A2</value>
+          </category>
+          <category>
+            <label>discordo ligeiramente</label>
+            <value>A3</value>
+          </category>
+          <category>
+            <label>concordo ligeiramente</label>
+            <value>A4</value>
+          </category>
+          <category>
+            <label>concordo fortemente</label>
+            <value>A5</value>
+          </category>
+          <category>
+            <label>concordo completamente</label>
+            <value>A6</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+  </section>
+  <section id="58565">
+    <sectionInfo>
+      <position>title</position>
+      <text>Interfaces de Realidade Aumentada</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <sectionInfo>
+      <position>before</position>
+      <text>Leia Atentamente&#13;
+&#13;
+&lt;p data-end="642" data-start="335"&gt;Comunicar com Veículos Autónomos (VAs) nem sempre é simples. Enquanto nos veículos tradicionais conseguimos olhar para o condutor e compreender as suas intenções através de gestos ou contacto visual, a ausência de um condutor nos VAs pode criar uma sensação de incerteza para os peões. Neste estudo, utilizamos a tecnologia V2X, que permite que os veículos comuniquem com outros utilizadores da estrada e com a infraestrutura rodoviária para ajudar a compreender as suas intenções.&lt;/p&gt;&#13;
+&#13;
+&lt;p data-end="642" data-start="335"&gt;Imagine que está a usar uns óculos de RA que se ligam ao tráfego e fornecem mensagens em tempo real no seu campo de visão. Neste momento, encontra-se numa passagem para peões e um VA está a aproximar-se.&lt;/p&gt;&#13;
+&#13;
+&lt;p data-end="642" data-start="335"&gt;As ilustrações seguintes apresentam diferentes formas de RA para informá-lo sobre o comportamento e intenções do veículo. Por favor, avalie cada design com base na sua clareza para si.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;/p&gt;</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <question>
+      <text>&lt;b&gt;Design: “Seta Direcional”&lt;/b&gt;&#13;
+&#13;
+&lt;p&gt;Este design, denominado &lt;b&gt;“Seta Direcional”&lt;/b&gt;, pretende &lt;b&gt;indicar a intenção do veículo autónomo de prosseguir em frente&lt;/b&gt;, utilizando uma seta projetada na estrada. Quão clara é esta interface na transmissão do seu propósito?&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt; &lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;/p&gt;</text>
+      <response varName="desgin1">
+        <fixed>
+          <category>
+            <label>Extremamente pouco claro</label>
+            <value>A1</value>
+          </category>
+          <category>
+            <label>Muito pouco claro</label>
+            <value>A2</value>
+          </category>
+          <category>
+            <label>Pouco claro</label>
+            <value>A3</value>
+          </category>
+          <category>
+            <label>Neutro</label>
+            <value>A4</value>
+          </category>
+          <category>
+            <label>Relativamente claro</label>
+            <value>A5</value>
+          </category>
+          <category>
+            <label>Muito claro</label>
+            <value>A6</value>
+          </category>
+          <category>
+            <label>Extremamente claro</label>
+            <value>A7</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Design: "Alerta de Veículo a Aproximar-se"&#13;
+&#13;
+&lt;p&gt;Este design, denominado "Alerta de Veículo a Aproximar-se", pretende indicar a intenção do veículo autónomo de continuar em movimento, utilizando um aviso de "STOP" e "VEHICLE APPROACHING" projetado no campo de visão do utilizador. Quão clara é esta interface na transmissão do seu propósito?&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt; &lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;/p&gt;</text>
+      <response varName="design2">
+        <fixed>
+          <category>
+            <label>Extremamente pouco claro</label>
+            <value>A1</value>
+          </category>
+          <category>
+            <label>Muito pouco claro</label>
+            <value>A2</value>
+          </category>
+          <category>
+            <label>Pouco claro</label>
+            <value>A3</value>
+          </category>
+          <category>
+            <label>Neutro</label>
+            <value>A4</value>
+          </category>
+          <category>
+            <label>Relativamente claro</label>
+            <value>A5</value>
+          </category>
+          <category>
+            <label>Muito claro</label>
+            <value>A6</value>
+          </category>
+          <category>
+            <label>Extremamente claro</label>
+            <value>A7</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Design: "Semáforo Vermelho"&#13;
+&#13;
+&lt;p&gt;Este design, denominado "Semáforo Vermelho", pretende indicar que o veículo autónomo vai prosseguir e o peão deve parar, utilizando um semáforo virtual com a luz vermelha acesa. Quão clara é esta interface na transmissão do seu propósito?&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt; &lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;/p&gt;</text>
+      <response varName="design3">
+        <fixed>
+          <category>
+            <label>Extremamente pouco claro</label>
+            <value>A1</value>
+          </category>
+          <category>
+            <label>Muito pouco claro</label>
+            <value>A2</value>
+          </category>
+          <category>
+            <label>Pouco claro</label>
+            <value>A3</value>
+          </category>
+          <category>
+            <label>Neutro</label>
+            <value>A4</value>
+          </category>
+          <category>
+            <label>Relativamente claro</label>
+            <value>A5</value>
+          </category>
+          <category>
+            <label>Muito claro</label>
+            <value>A6</value>
+          </category>
+          <category>
+            <label>Extremamente claro</label>
+            <value>A7</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Design: "Passadeira Projetada"&#13;
+&#13;
+&lt;p&gt;Este design, denominado "Passadeira Projetada", pretende indicar a intenção do veículo autónomo de parar, utilizando a projeção de uma passadeira no chão e a mensagem "SAFE TO CROSS". Quão clara é esta interface na transmissão do seu propósito?&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt; &lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;/p&gt;</text>
+      <response varName="design4">
+        <fixed>
+          <category>
+            <label>Extremamente pouco claro</label>
+            <value>A1</value>
+          </category>
+          <category>
+            <label>Muito pouco claro</label>
+            <value>A2</value>
+          </category>
+          <category>
+            <label>Pouco claro</label>
+            <value>A3</value>
+          </category>
+          <category>
+            <label>Neutro</label>
+            <value>A4</value>
+          </category>
+          <category>
+            <label>Relativamente claro</label>
+            <value>A5</value>
+          </category>
+          <category>
+            <label>Muito claro</label>
+            <value>A6</value>
+          </category>
+          <category>
+            <label>Extremamente claro</label>
+            <value>A7</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Design: "Alerta de Cedência de Passagem"&#13;
+&#13;
+&lt;p&gt;Este design, denominado "Alerta de Cedência de Passagem", pretende indicar a intenção do veículo autónomo de ceder a passagem a peões, utilizando um sinal de cedência de passagem com "YIELDING TO CROSS" projetado no campo de visão do utilizador. Quão clara é esta interface na transmissão do seu propósito?&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt; &lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;/p&gt;</text>
+      <response varName="design5">
+        <fixed>
+          <category>
+            <label>Extremamente pouco claro</label>
+            <value>A1</value>
+          </category>
+          <category>
+            <label>Muito pouco claro</label>
+            <value>A2</value>
+          </category>
+          <category>
+            <label>Pouco claro</label>
+            <value>A3</value>
+          </category>
+          <category>
+            <label>Neutro</label>
+            <value>A4</value>
+          </category>
+          <category>
+            <label>Relativamente claro</label>
+            <value>A5</value>
+          </category>
+          <category>
+            <label>Muito claro</label>
+            <value>A6</value>
+          </category>
+          <category>
+            <label>Extremamente claro</label>
+            <value>A7</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Design: "Semáforo Verde"&#13;
+&#13;
+&lt;p&gt;Este design, denominado "Semáforo Verde", pretende indicar que o veículo autónomo vai parar e o peão deve prosseguir, utilizando um semáforo virtual com a luz verde acesa. Quão clara é esta interface na transmissão do seu propósito?&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt; &lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;/p&gt;</text>
+      <response varName="design6">
+        <fixed>
+          <category>
+            <label>Extremamente pouco claro</label>
+            <value>A1</value>
+          </category>
+          <category>
+            <label>Muito pouco claro</label>
+            <value>A2</value>
+          </category>
+          <category>
+            <label>Pouco claro</label>
+            <value>A3</value>
+          </category>
+          <category>
+            <label>Neutro</label>
+            <value>A4</value>
+          </category>
+          <category>
+            <label>Relativamente claro</label>
+            <value>A5</value>
+          </category>
+          <category>
+            <label>Muito claro</label>
+            <value>A6</value>
+          </category>
+          <category>
+            <label>Extremamente claro</label>
+            <value>A7</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Por favor, classifique os designs do melhor para o pior com base na sua preferência, sendo o 1º (topo) e o último o pior.&lt;/p&gt;</text>
+      <subQuestion varName="rankdesign_A1">
+        <text>Interface 1 (Seta Direcional)</text>
+      </subQuestion>
+      <subQuestion varName="rankdesign_A2">
+        <text>Interface 2 (Alerta de Veículo a Aproximar-se)</text>
+      </subQuestion>
+      <subQuestion varName="rankdesign_A3">
+        <text>Interface 3 (Semáforo Vermelho)</text>
+      </subQuestion>
+      <subQuestion varName="rankdesign_A4">
+        <text>Interface 4 (Passadeira Projetada)</text>
+      </subQuestion>
+      <subQuestion varName="rankdesign_A5">
+        <text>Interface 5 (Alerta de Cedência de Passagem)</text>
+      </subQuestion>
+      <subQuestion varName="rankdesign_A6">
+        <text>Interface 6 (Semáforo Verde)</text>
+      </subQuestion>
+      <response varName="rankdesign">
+        <free>
+          <format>integer</format>
+          <length>2</length>
+          <label/>
+        </free>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Que ideias ou sugestões tem para melhorar estes designs de interação com o veículo autónomo? Existe alguma interação que considera relevante e que não tenha sido adicionada neste questionário? Sinta-se à vontade fazer mais do que um comentário.&lt;/p&gt;</text>
+      <response varName="suggestiondesign">
+        <free>
+          <format>longtext</format>
+          <length>40</length>
+          <label/>
+        </free>
+      </response>
+    </question>
+  </section>
+  <section id="58579">
+    <sectionInfo>
+      <position>title</position>
+      <text>Interações por Voz</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <sectionInfo>
+      <position>before</position>
+      <text>Leia Atentamente&#13;
+&#13;
+&lt;p&gt;Além dos ecrãs de RA, os comandos de voz também podem ajudá-lo a comunicar com os VAs. Imagine que está numa passagem para peões e pode falar diretamente com o VA para lhe dar instruções, como parar, abrandar ou avançar. Vamos explorar quão adequados podem ser diferentes comandos de voz.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;/p&gt;</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <question>
+      <text>&lt;b&gt;Comando: "Parar"&lt;/b&gt;&#13;
+&#13;
+&lt;p&gt;Este comando de voz, denominado "Parar", instrui o veículo autónomo a &lt;b&gt;parar imediatamente&lt;/b&gt; para poder atravessar a estrada. Quão aplicável considera este comando de voz para interagir com o veículo autónomo?&lt;/p&gt;&#13;
+&#13;
+&#13;
+ Your browser does not support the audio element.</text>
+      <response varName="voice1">
+        <fixed>
+          <category>
+            <label>Nada aplicável</label>
+            <value>A1</value>
+          </category>
+          <category>
+            <label>Pouco aplicável</label>
+            <value>A2</value>
+          </category>
+          <category>
+            <label>Ligeiramente aplicável</label>
+            <value>A3</value>
+          </category>
+          <category>
+            <label>Neutro</label>
+            <value>A4</value>
+          </category>
+          <category>
+            <label>Consideravelmente aplicável</label>
+            <value>A5</value>
+          </category>
+          <category>
+            <label>Muito aplicável</label>
+            <value>A6</value>
+          </category>
+          <category>
+            <label>Extremamente aplicável</label>
+            <value>A7</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;b&gt;Comando: "Prosseguir"&lt;/b&gt;&#13;
+&#13;
+&lt;p&gt;Este comando de voz, denominado "Prosseguir", informa o veículo autónomo de que &lt;b&gt;pode avançar&lt;/b&gt;, confirmando que é seguro fazê-lo. Quão aplicável considera este comando de voz para interagir com o veículo autónomo?&lt;/p&gt;&#13;
+&#13;
+&#13;
+ Your browser does not support the audio element.</text>
+      <response varName="voice2">
+        <fixed>
+          <category>
+            <label>Nada aplicável</label>
+            <value>A1</value>
+          </category>
+          <category>
+            <label>Pouco aplicável</label>
+            <value>A2</value>
+          </category>
+          <category>
+            <label>Ligeiramente aplicável</label>
+            <value>A3</value>
+          </category>
+          <category>
+            <label>Neutro</label>
+            <value>A4</value>
+          </category>
+          <category>
+            <label>Consideravelmente aplicável</label>
+            <value>A5</value>
+          </category>
+          <category>
+            <label>Muito aplicável</label>
+            <value>A6</value>
+          </category>
+          <category>
+            <label>Extremamente aplicável</label>
+            <value>A7</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;b&gt;Comando: "Desviar Obstáculo"&lt;/b&gt;&#13;
+&#13;
+&lt;p&gt;Este comando de voz, denominado "Desviar Obstáculo", instrui o veículo autónomo a &lt;b&gt;contornar um obstáculo no seu percurso em vez de parar&lt;/b&gt; Quão aplicável considera este comando de voz para interagir com o veículo autónomo?&lt;/p&gt;&#13;
+&#13;
+&#13;
+ Your browser does not support the audio element.</text>
+      <response varName="voice3">
+        <fixed>
+          <category>
+            <label>Nada aplicável</label>
+            <value>A1</value>
+          </category>
+          <category>
+            <label>Pouco aplicável</label>
+            <value>A2</value>
+          </category>
+          <category>
+            <label>Ligeiramente aplicável</label>
+            <value>A3</value>
+          </category>
+          <category>
+            <label>Neutro</label>
+            <value>A4</value>
+          </category>
+          <category>
+            <label>Consideravelmente aplicável</label>
+            <value>A5</value>
+          </category>
+          <category>
+            <label>Muito aplicável</label>
+            <value>A6</value>
+          </category>
+          <category>
+            <label>Extremamente aplicável</label>
+            <value>A7</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;b&gt;Comando: "Reduzir Velocidade"&lt;/b&gt;&#13;
+&#13;
+&lt;p&gt;Este comando de voz, denominado "Reduzir Velocidade", pede ao veículo autónomo para diminuir a velocidade e proceder com mais cautela. Quão aplicável considera este comando de voz para interagir com o veículo autónomo?&lt;/p&gt;&#13;
+&#13;
+&#13;
+ Your browser does not support the audio element.</text>
+      <response varName="voice4">
+        <fixed>
+          <category>
+            <label>Nada aplicável</label>
+            <value>A1</value>
+          </category>
+          <category>
+            <label>Pouco aplicável</label>
+            <value>A2</value>
+          </category>
+          <category>
+            <label>Ligeiramente aplicável</label>
+            <value>A3</value>
+          </category>
+          <category>
+            <label>Neutro</label>
+            <value>A4</value>
+          </category>
+          <category>
+            <label>Consideravelmente aplicável</label>
+            <value>A5</value>
+          </category>
+          <category>
+            <label>Muito aplicável</label>
+            <value>A6</value>
+          </category>
+          <category>
+            <label>Extremamente aplicável</label>
+            <value>A7</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;b&gt;Comando: "Aguardar Peões"&lt;/b&gt;&#13;
+&#13;
+&lt;p&gt;Este comando de voz, denominado "Aguardar Peões", instrui o veículo autónomo a &lt;b&gt;permanecer parado porque mais peões estão a atravessar&lt;/b&gt;. Quão aplicável considera este comando de voz para interagir com o veículo autónomo?&lt;/p&gt;&#13;
+&#13;
+&#13;
+ Your browser does not support the audio element.</text>
+      <response varName="voice5">
+        <fixed>
+          <category>
+            <label>Nada aplicável</label>
+            <value>A1</value>
+          </category>
+          <category>
+            <label>Pouco aplicável</label>
+            <value>A2</value>
+          </category>
+          <category>
+            <label>Ligeiramente aplicável</label>
+            <value>A3</value>
+          </category>
+          <category>
+            <label>Neutro</label>
+            <value>A4</value>
+          </category>
+          <category>
+            <label>Consideravelmente aplicável</label>
+            <value>A5</value>
+          </category>
+          <category>
+            <label>Muito aplicável</label>
+            <value>A6</value>
+          </category>
+          <category>
+            <label>Extremamente aplicável</label>
+            <value>A7</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Por favor, classifique as interações por voz de melhor para pior com base na sua preferência, sendo o 1º (topo) e o último o pior.&lt;/p&gt;</text>
+      <subQuestion varName="rankvoice_A1">
+        <text>Comando de Voz 1 (Parar)</text>
+      </subQuestion>
+      <subQuestion varName="rankvoice_A2">
+        <text>Comando de Voz 2 (Prosseguir)</text>
+      </subQuestion>
+      <subQuestion varName="rankvoice_A3">
+        <text>Comando de Voz 3 (Desviar Obstáculo)</text>
+      </subQuestion>
+      <subQuestion varName="rankvoice_A4">
+        <text>Comando de Voz 4 (Reduzir Velocidade)</text>
+      </subQuestion>
+      <subQuestion varName="rankvoice_A5">
+        <text>Comando de Voz 5 (Aguardar Peões)</text>
+      </subQuestion>
+      <response varName="rankvoice">
+        <free>
+          <format>integer</format>
+          <length>2</length>
+          <label/>
+        </free>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Que ideias ou sugestões tem para melhorar os comandos de voz para interagir com o veículo autónomo a partir do exterior? Existe algum comando que considera relevante e que não tenha sido adicionada neste questionário? Sinta-se à vontade para fazer mais do que um comentário.&lt;/p&gt;</text>
+      <response varName="suggestionvoice">
+        <free>
+          <format>longtext</format>
+          <length>40</length>
+          <label/>
+        </free>
+      </response>
+    </question>
+  </section>
+  <section id="58587">
+    <sectionInfo>
+      <position>title</position>
+      <text>Interações por Gestos</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <sectionInfo>
+      <position>before</position>
+      <text>Leia Atentamente&#13;
+&#13;
+&lt;p&gt;Imagine um VA a aproximar-se enquanto espera numa passagem para peões. Em vez de falar, utiliza gestos manuais para comunicar com o veículo. Quão intuitivos lhe parecem os seguintes gestos?&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;/p&gt;</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <question>
+      <text>&lt;b&gt;Gesto: "Reduzir Velocidade"&lt;/b&gt;&#13;
+&#13;
+&lt;p&gt;Este gesto, denominado "Reduzir Velocidade", pede ao veículo autónomo para &lt;b&gt;abrandar e proceder com mais cautela&lt;/b&gt;, movendo ambas as mãos para baixo num movimento de calma. Quão aplicável considera este gesto para interagir com o veículo autónomo?&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt; &lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt; &lt;/p&gt;</text>
+      <response varName="gesture1">
+        <fixed>
+          <category>
+            <label>Nada aplicável</label>
+            <value>A1</value>
+          </category>
+          <category>
+            <label>Pouco aplicável</label>
+            <value>A2</value>
+          </category>
+          <category>
+            <label>Ligeiramente aplicável</label>
+            <value>A3</value>
+          </category>
+          <category>
+            <label>Neutro</label>
+            <value>A4</value>
+          </category>
+          <category>
+            <label>Consideravelmente aplicável</label>
+            <value>A5</value>
+          </category>
+          <category>
+            <label>Muito aplicável</label>
+            <value>A6</value>
+          </category>
+          <category>
+            <label>Extremamente aplicável</label>
+            <value>A7</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;b&gt;Gesto: "Aguardar pelos Peões"&lt;/b&gt;&#13;
+&#13;
+&lt;p&gt;Este gesto, denominado "Aguardar pelos Peões", indica ao veículo autónomo que deve &lt;b&gt;esperar porque mais peões estão a chegar&lt;/b&gt;. Para isso, uma mão é usada para parar e a outra aponta na direção dos peões. Quão aplicável considera este gesto para interagir com o veículo autónomo?&lt;/p&gt;&#13;
+&lt;p&gt;&#13;
+  &#13;
+&lt;/p&gt;&#13;
+&lt;p&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt; &lt;/p&gt;</text>
+      <response varName="gesture2">
+        <fixed>
+          <category>
+            <label>Nada aplicável</label>
+            <value>A1</value>
+          </category>
+          <category>
+            <label>Pouco aplicável</label>
+            <value>A2</value>
+          </category>
+          <category>
+            <label>Ligeiramente aplicável</label>
+            <value>A3</value>
+          </category>
+          <category>
+            <label>Neutro</label>
+            <value>A4</value>
+          </category>
+          <category>
+            <label>Consideravelmente aplicável</label>
+            <value>A5</value>
+          </category>
+          <category>
+            <label>Muito aplicável</label>
+            <value>A6</value>
+          </category>
+          <category>
+            <label>Extremamente aplicável</label>
+            <value>A7</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;b&gt;Gesto: "Posição em T"&lt;/b&gt;&#13;
+&#13;
+&lt;p&gt;Este gesto, denominado "Posição em T", sinaliza uma pausa, indicando ao veículo autónomo que &lt;b&gt;deve manter a sua posição&lt;/b&gt;. Quão aplicável considera este gesto para interagir com o veículo autónomo?&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt; &lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt; &lt;/p&gt;</text>
+      <response varName="gesture3">
+        <fixed>
+          <category>
+            <label>Nada aplicável</label>
+            <value>A1</value>
+          </category>
+          <category>
+            <label>Pouco aplicável</label>
+            <value>A2</value>
+          </category>
+          <category>
+            <label>Ligeiramente aplicável</label>
+            <value>A3</value>
+          </category>
+          <category>
+            <label>Neutro</label>
+            <value>A4</value>
+          </category>
+          <category>
+            <label>Consideravelmente aplicável</label>
+            <value>A5</value>
+          </category>
+          <category>
+            <label>Muito aplicável</label>
+            <value>A6</value>
+          </category>
+          <category>
+            <label>Extremamente aplicável</label>
+            <value>A7</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;b&gt;Gesto: "Prosseguir"&lt;/b&gt;&#13;
+&#13;
+&lt;p&gt;Este gesto, denominado "Prosseguir", informa o veículo autónomo que &lt;b&gt;pode avançar&lt;/b&gt;. O gesto consiste num movimento com uma única mão a deslizar da direita para esquerda ou vice-versa. Quão aplicável considera este gesto para interagir com o veículo autónomo?&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt; &lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt; &lt;/p&gt;</text>
+      <response varName="gesture4">
+        <fixed>
+          <category>
+            <label>Nada aplicável</label>
+            <value>A1</value>
+          </category>
+          <category>
+            <label>Pouco aplicável</label>
+            <value>A2</value>
+          </category>
+          <category>
+            <label>Ligeiramente aplicável</label>
+            <value>A3</value>
+          </category>
+          <category>
+            <label>Neutro</label>
+            <value>A4</value>
+          </category>
+          <category>
+            <label>Consideravelmente aplicável</label>
+            <value>A5</value>
+          </category>
+          <category>
+            <label>Muito aplicável</label>
+            <value>A6</value>
+          </category>
+          <category>
+            <label>Extremamente aplicável</label>
+            <value>A7</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;b&gt;Gesto: "Desviar Obstáculo"&lt;/b&gt;&#13;
+&#13;
+&lt;p&gt;Este gesto, denominado "Desviar Obstáculo", instrui o veículo autónomo a &lt;b&gt;contornar um obstáculo em vez de parar&lt;/b&gt;. Para isso, uma mão aponta para o obstáculo enquanto a outra faz um movimento semicircular. Quão aplicável considera este gesto para interagir com o veículo autónomo?&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt; &lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt; &lt;/p&gt;</text>
+      <response varName="gesture5">
+        <fixed>
+          <category>
+            <label>Nada aplicável</label>
+            <value>A1</value>
+          </category>
+          <category>
+            <label>Pouco aplicável</label>
+            <value>A2</value>
+          </category>
+          <category>
+            <label>Ligeiramente aplicável</label>
+            <value>A3</value>
+          </category>
+          <category>
+            <label>Neutro</label>
+            <value>A4</value>
+          </category>
+          <category>
+            <label>Consideravelmente aplicável</label>
+            <value>A5</value>
+          </category>
+          <category>
+            <label>Muito aplicável</label>
+            <value>A6</value>
+          </category>
+          <category>
+            <label>Extremamente aplicável</label>
+            <value>A7</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;b&gt;Gesto: "Segue-me"&lt;/b&gt;&#13;
+&#13;
+&lt;p&gt;Este gesto, denominado "Segue-me", indica ao veículo autónomo que &lt;b&gt;deve companhar o peão&lt;/b&gt;. O gesto consiste num movimento de chamamento com ambas as mãos. Quão aplicável considera este gesto para interagir com o veículo autónomo?&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt; &lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt; &lt;/p&gt;</text>
+      <response varName="gesture6">
+        <fixed>
+          <category>
+            <label>Nada aplicável</label>
+            <value>A1</value>
+          </category>
+          <category>
+            <label>Pouco aplicável</label>
+            <value>A2</value>
+          </category>
+          <category>
+            <label>Ligeiramente aplicável</label>
+            <value>A3</value>
+          </category>
+          <category>
+            <label>Neutro</label>
+            <value>A4</value>
+          </category>
+          <category>
+            <label>Consideravelmente aplicável</label>
+            <value>A5</value>
+          </category>
+          <category>
+            <label>Muito aplicável</label>
+            <value>A6</value>
+          </category>
+          <category>
+            <label>Extremamente aplicável</label>
+            <value>A7</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;b&gt;Gesto: "Parar"&lt;/b&gt;&#13;
+&#13;
+&lt;p&gt;Este gesto, denominado "Parar", instrui o veículo autónomo a &lt;b&gt;parar imediatamente&lt;/b&gt;. O gesto consiste em levantar uma mão, palma voltada para a frente, semelhante a um agente de trânsito. Quão aplicável considera este gesto para interagir com o veículo autónomo?&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt; &lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt; &lt;/p&gt;</text>
+      <response varName="gesture7">
+        <fixed>
+          <category>
+            <label>Nada aplicável</label>
+            <value>A1</value>
+          </category>
+          <category>
+            <label>Pouco aplicável</label>
+            <value>A2</value>
+          </category>
+          <category>
+            <label>Ligeiramente aplicável</label>
+            <value>A3</value>
+          </category>
+          <category>
+            <label>Neutro</label>
+            <value>A4</value>
+          </category>
+          <category>
+            <label>Consideravelmente aplicável</label>
+            <value>A5</value>
+          </category>
+          <category>
+            <label>Muito aplicável</label>
+            <value>A6</value>
+          </category>
+          <category>
+            <label>Extremamente aplicável</label>
+            <value>A7</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;b&gt;Gesto: "Paragem de Emergência"&lt;/b&gt;&#13;
+&#13;
+&lt;p&gt;Este gesto, denominado "Paragem de Emergência", sinaliza uma paragem imediata e crítica. O gesto consiste em levantar ambos os braços, com as palmas viradas para o veículo. Quão aplicável considera este gesto para interagir com o veículo autónomo?&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt; &lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt; &lt;/p&gt;</text>
+      <response varName="gesture8">
+        <fixed>
+          <category>
+            <label>Nada aplicável</label>
+            <value>A1</value>
+          </category>
+          <category>
+            <label>Pouco aplicável</label>
+            <value>A2</value>
+          </category>
+          <category>
+            <label>Ligeiramente aplicável</label>
+            <value>A3</value>
+          </category>
+          <category>
+            <label>Neutro</label>
+            <value>A4</value>
+          </category>
+          <category>
+            <label>Consideravelmente aplicável</label>
+            <value>A5</value>
+          </category>
+          <category>
+            <label>Muito aplicável</label>
+            <value>A6</value>
+          </category>
+          <category>
+            <label>Extremamente aplicável</label>
+            <value>A7</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;b&gt;Gesto: "Recuar"&lt;/b&gt;&#13;
+&#13;
+&lt;p&gt;Este gesto, denominado "Recuar", instrui o veículo autónomo a &lt;b&gt;inverter a marcha&lt;/b&gt;. O gesto consiste em empurrar ambas as mãos para trás repetidamente. Quão aplicável considera este gesto para interagir com o veículo autónomo?&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt; &lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt; &lt;/p&gt;</text>
+      <response varName="gesture9">
+        <fixed>
+          <category>
+            <label>Nada aplicável</label>
+            <value>A1</value>
+          </category>
+          <category>
+            <label>Pouco aplicável</label>
+            <value>A2</value>
+          </category>
+          <category>
+            <label>Ligeiramente aplicável</label>
+            <value>A3</value>
+          </category>
+          <category>
+            <label>Neutro</label>
+            <value>A4</value>
+          </category>
+          <category>
+            <label>Consideravelmente aplicável</label>
+            <value>A5</value>
+          </category>
+          <category>
+            <label>Muito aplicável</label>
+            <value>A6</value>
+          </category>
+          <category>
+            <label>Extremamente aplicável</label>
+            <value>A7</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Por favor, classifique as interações por gesto de melhor para pior com base na sua preferência, sendo o 1º (topo) e o último o pior.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt; &lt;/p&gt;&#13;
+.gesture-container {&#13;
+    display: flex;&#13;
+    flex-wrap: wrap;&#13;
+    justify-content: center;&#13;
+    gap: 15px;&#13;
+  }&#13;
+  &#13;
+  .gesture-card {&#13;
+    display: flex;&#13;
+    flex-direction: column;&#13;
+    align-items: center;&#13;
+    padding: 10px;&#13;
+    background: #f8f8f8;&#13;
+    border-radius: 10px;&#13;
+    width: 200px;&#13;
+    text-align: center;&#13;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);&#13;
+  }&#13;
+&#13;
+  .gesture-card img {&#13;
+    width: 100%;&#13;
+    height: auto;&#13;
+    border-radius: 5px;&#13;
+  }&#13;
+&#13;
+  .gesture-card span {&#13;
+    font-size: 14px;&#13;
+    font-weight: bold;&#13;
+    margin-top: 5px;&#13;
+  }&#13;
+&#13;
+&#13;
+Gesto 1 &#13;
+&#13;
+Gesto 2 &#13;
+&#13;
+Gesto 3 &#13;
+&#13;
+Gesto 4 &#13;
+&#13;
+Gesto 5 &#13;
+&#13;
+Gesto 6 &#13;
+&#13;
+Gesto 7 &#13;
+&#13;
+Gesto 8 &#13;
+&#13;
+Gesto 9</text>
+      <subQuestion varName="rankgesture_A1">
+        <text>Gesture 1 (Reduzir Velocidade)</text>
+      </subQuestion>
+      <subQuestion varName="rankgesture_A2">
+        <text>Gesture 2 (Aguardar pelos Peões)</text>
+      </subQuestion>
+      <subQuestion varName="rankgesture_A3">
+        <text>Gesture 3 (Posição em T)</text>
+      </subQuestion>
+      <subQuestion varName="rankgesture_A4">
+        <text>Gesture 4 (Prosseguir)</text>
+      </subQuestion>
+      <subQuestion varName="rankgesture_A5">
+        <text>Gesture 5 (Desvia Obstáculo)</text>
+      </subQuestion>
+      <subQuestion varName="rankgesture_A6">
+        <text>Gesture 6 (Segue-me)</text>
+      </subQuestion>
+      <subQuestion varName="rankgesture_A7">
+        <text>Gesture 7 (Parar)</text>
+      </subQuestion>
+      <subQuestion varName="rankgesture_A8">
+        <text>Gesture 8 (Paragem de Emergência)</text>
+      </subQuestion>
+      <subQuestion varName="rankgesture_A9">
+        <text>Gesture 9 (Recuar)</text>
+      </subQuestion>
+      <response varName="rankgesture">
+        <free>
+          <format>integer</format>
+          <length>2</length>
+          <label/>
+        </free>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Que ideias ou sugestões tem para melhorar os gestos para interagir com o veículo autónomo a partir do exterior? Existe algum gesto que considera relevante e que não tenha sido adicionado neste questionário? Sinta-se à vontade para fazer mais do que um comentário.&lt;/p&gt;</text>
+      <response varName="suggestiongesture">
+        <free>
+          <format>longtext</format>
+          <length>40</length>
+          <label/>
+        </free>
+      </response>
+    </question>
+  </section>
+  <section id="58609">
+    <sectionInfo>
+      <position>title</position>
+      <text>Associar comandos de voz a gestos</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <sectionInfo>
+      <position>before</position>
+      <text>Leia Atentamente&#13;
+&#13;
+&lt;p data-end="818" data-start="670"&gt;Em algumas situações, os comandos de voz podem não ser suficientes—acompanhá-los com um gesto pode tornar a comunicação mais clara e intuitiva.&lt;/p&gt;&#13;
+&#13;
+&lt;p data-end="1204" data-start="1102"&gt;Para cada comando, selecione o gesto que usaria mais provavelmente para reforçar a sua mensagem.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;/p&gt;</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <question>
+      <text>.gesture-container {&#13;
+    display: flex;&#13;
+    flex-wrap: wrap;&#13;
+    justify-content: center;&#13;
+    gap: 15px;&#13;
+  }&#13;
+  &#13;
+  .gesture-card {&#13;
+    display: flex;&#13;
+    flex-direction: column;&#13;
+    align-items: center;&#13;
+    padding: 10px;&#13;
+    background: #f8f8f8;&#13;
+    border-radius: 10px;&#13;
+    width: 200px;&#13;
+    text-align: center;&#13;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);&#13;
+  }&#13;
+&#13;
+  .gesture-card img {&#13;
+    width: 100%;&#13;
+    height: auto;&#13;
+    border-radius: 5px;&#13;
+  }&#13;
+&#13;
+  .gesture-card span {&#13;
+    font-size: 14px;&#13;
+    font-weight: bold;&#13;
+    margin-top: 5px;&#13;
+  }&#13;
+&#13;
+&lt;b&gt;Associar um Gesto ao Comando: "Parar"&lt;/b&gt;&#13;
+&#13;
+&#13;
+ Your browser does not support the audio element.&#13;
+&#13;
+&lt;p&gt;&#13;
+  &#13;
+&lt;/p&gt;&#13;
+&lt;p&gt;Imagine que está numa passagem para peões e pretende instruir um VA a parar imediatamente. Se fosse acompanhar o seu comando de voz com um gesto, qual usaria?&lt;/p&gt;&#13;
+&lt;p&gt;&#13;
+  &#13;
+&lt;/p&gt;&#13;
+&#13;
+Gesto 1 &#13;
+&#13;
+Gesto 2 &#13;
+&#13;
+Gesto 3 &#13;
+&#13;
+Gesto 4 &#13;
+&#13;
+Gesto 5 &#13;
+&#13;
+Gesto 6 &#13;
+&#13;
+Gesto 7 &#13;
+&#13;
+Gesto 8 &#13;
+&#13;
+Gesto 9</text>
+      <response varName="gestureforstop">
+        <fixed>
+          <category>
+            <label>Gesto 1</label>
+            <value>A1</value>
+          </category>
+          <category>
+            <label>Gesto 2</label>
+            <value>A2</value>
+          </category>
+          <category>
+            <label>Gesto 3</label>
+            <value>A3</value>
+          </category>
+          <category>
+            <label>Gesto 4</label>
+            <value>A4</value>
+          </category>
+          <category>
+            <label>Gesto 5</label>
+            <value>A5</value>
+          </category>
+          <category>
+            <label>Gesto 6</label>
+            <value>A6</value>
+          </category>
+          <category>
+            <label>Gesto 7</label>
+            <value>A7</value>
+          </category>
+          <category>
+            <label>Gesto 8</label>
+            <value>A8</value>
+          </category>
+          <category>
+            <label>Gesto 9</label>
+            <value>A9</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>.gesture-container {&#13;
+    display: flex;&#13;
+    flex-wrap: wrap;&#13;
+    justify-content: center;&#13;
+    gap: 15px;&#13;
+  }&#13;
+  &#13;
+  .gesture-card {&#13;
+    display: flex;&#13;
+    flex-direction: column;&#13;
+    align-items: center;&#13;
+    padding: 10px;&#13;
+    background: #f8f8f8;&#13;
+    border-radius: 10px;&#13;
+    width: 200px;&#13;
+    text-align: center;&#13;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);&#13;
+  }&#13;
+&#13;
+  .gesture-card img {&#13;
+    width: 100%;&#13;
+    height: auto;&#13;
+    border-radius: 5px;&#13;
+  }&#13;
+&#13;
+  .gesture-card span {&#13;
+    font-size: 14px;&#13;
+    font-weight: bold;&#13;
+    margin-top: 5px;&#13;
+  }&#13;
+&#13;
+&lt;b&gt;Associar um Gesto ao Comando: "Prosseguir"&lt;/b&gt;&#13;
+&#13;
+&#13;
+ Your browser does not support the audio element.&#13;
+&#13;
+&#13;
+&lt;p&gt;Imagine que está numa passagem para peões e pretende sinalizar a um VA que pode avançar. Se fosse acompanhar o seu comando de voz com um gesto, qual usaria?&lt;/p&gt;&#13;
+&#13;
+&#13;
+Gesto 1 &#13;
+&#13;
+Gesto 2 &#13;
+&#13;
+Gesto 3 &#13;
+&#13;
+Gesto 4 &#13;
+&#13;
+Gesto 5 &#13;
+&#13;
+Gesto 6 &#13;
+&#13;
+Gesto 7 &#13;
+&#13;
+Gesto 8 &#13;
+&#13;
+Gesto 9</text>
+      <response varName="gestureforproceed">
+        <fixed>
+          <category>
+            <label>Gesto 1</label>
+            <value>A1</value>
+          </category>
+          <category>
+            <label>Gesto 2</label>
+            <value>A2</value>
+          </category>
+          <category>
+            <label>Gesto 3</label>
+            <value>A3</value>
+          </category>
+          <category>
+            <label>Gesto 4</label>
+            <value>A4</value>
+          </category>
+          <category>
+            <label>Gesto 5</label>
+            <value>A5</value>
+          </category>
+          <category>
+            <label>Gesto 6</label>
+            <value>A6</value>
+          </category>
+          <category>
+            <label>Gesto 7</label>
+            <value>A7</value>
+          </category>
+          <category>
+            <label>Gesto 8</label>
+            <value>A8</value>
+          </category>
+          <category>
+            <label>Gesto 9</label>
+            <value>A9</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>.gesture-container {&#13;
+    display: flex;&#13;
+    flex-wrap: wrap;&#13;
+    justify-content: center;&#13;
+    gap: 15px;&#13;
+  }&#13;
+  &#13;
+  .gesture-card {&#13;
+    display: flex;&#13;
+    flex-direction: column;&#13;
+    align-items: center;&#13;
+    padding: 10px;&#13;
+    background: #f8f8f8;&#13;
+    border-radius: 10px;&#13;
+    width: 200px;&#13;
+    text-align: center;&#13;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);&#13;
+  }&#13;
+&#13;
+  .gesture-card img {&#13;
+    width: 100%;&#13;
+    height: auto;&#13;
+    border-radius: 5px;&#13;
+  }&#13;
+&#13;
+  .gesture-card span {&#13;
+    font-size: 14px;&#13;
+    font-weight: bold;&#13;
+    margin-top: 5px;&#13;
+  }&#13;
+&#13;
+&lt;b&gt;Associar um Gesto ao Comando: "Reduzir Velocidade"&lt;/b&gt;&#13;
+&#13;
+&#13;
+ Your browser does not support the audio element.&#13;
+&#13;
+&#13;
+&lt;p&gt;Imagine que quer alertar um VA para abrandar e avançar com precaução. Se fosse acompanhar o seu comando de voz com um gesto, qual usaria?&lt;/p&gt;&#13;
+&#13;
+&#13;
+Gesto 1 &#13;
+&#13;
+Gesto 2 &#13;
+&#13;
+Gesto 3 &#13;
+&#13;
+Gesto 4 &#13;
+&#13;
+Gesto 5 &#13;
+&#13;
+Gesto 6 &#13;
+&#13;
+Gesto 7 &#13;
+&#13;
+Gesto 8 &#13;
+&#13;
+Gesto 9</text>
+      <response varName="gestureforcaution">
+        <fixed>
+          <category>
+            <label>Gesto 1</label>
+            <value>A1</value>
+          </category>
+          <category>
+            <label>Gesto 2</label>
+            <value>A2</value>
+          </category>
+          <category>
+            <label>Gesto 3</label>
+            <value>A3</value>
+          </category>
+          <category>
+            <label>Gesto 4</label>
+            <value>A4</value>
+          </category>
+          <category>
+            <label>Gesto 5</label>
+            <value>A5</value>
+          </category>
+          <category>
+            <label>Gesto 6</label>
+            <value>A6</value>
+          </category>
+          <category>
+            <label>Gesto 7</label>
+            <value>A7</value>
+          </category>
+          <category>
+            <label>Gesto 8</label>
+            <value>A8</value>
+          </category>
+          <category>
+            <label>Gesto 9</label>
+            <value>A9</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+  </section>
+</questionnaire>

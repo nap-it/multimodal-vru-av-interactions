@@ -1,0 +1,28 @@
+task,gesture_id,n,pct
+Stop command,G1,0,0.0
+Stop command,G2,10,8.064516129032258
+Stop command,G3,1,0.8064516129032258
+Stop command,G4,2,1.6129032258064515
+Stop command,G5,2,1.6129032258064515
+Stop command,G6,0,0.0
+Stop command,G7,1,0.8064516129032258
+Stop command,G8,107,86.29032258064517
+Stop command,G9,1,0.8064516129032258
+Proceed command,G1,0,0.0
+Proceed command,G2,0,0.0
+Proceed command,G3,7,5.645161290322581
+Proceed command,G4,1,0.8064516129032258
+Proceed command,G5,1,0.8064516129032258
+Proceed command,G6,110,88.70967741935483
+Proceed command,G7,0,0.0
+Proceed command,G8,4,3.225806451612903
+Proceed command,G9,1,0.8064516129032258
+Slow down command,G1,1,0.8064516129032258
+Slow down command,G2,4,3.225806451612903
+Slow down command,G3,2,1.6129032258064515
+Slow down command,G4,10,8.064516129032258
+Slow down command,G5,2,1.6129032258064515
+Slow down command,G6,1,0.8064516129032258
+Slow down command,G7,99,79.83870967741936
+Slow down command,G8,4,3.225806451612903
+Slow down command,G9,1,0.8064516129032258

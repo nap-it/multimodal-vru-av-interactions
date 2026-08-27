@@ -1,0 +1,9 @@
+code,modality,category,operational_definition,manuscript_count
+AR01,AR,Traffic-light ambiguity or pedestrian-specific symbol,"Questions whether generic traffic-light cues apply to the pedestrian or vehicle, or recommends pedestrian-specific traffic-light symbols.",18
+AR02,AR,Crosswalk presentation or orientation,"Questions the projected crosswalk's orientation, placement, color, or other presentation details.",8
+AR03,AR,Combined or layered cues,"Recommends combining visual cues or presenting multiple complementary indicators.",6
+VO01,Voice,Command phrasing or acoustic distinctness,"Recommends changing command length, phrasing, or semantic/acoustic distinctness.",4
+VO02,Voice,Detailed-command ambiguity or coordination burden,"Describes obstacle/wait commands as ambiguous or as placing the pedestrian in a traffic-coordination role.",4
+VO03,Voice,Reliability misuse or conflicting commands,"Raises recognition reliability, intentional misuse, or conflicts among commands from multiple road users.",6
+GE01,Gesture,Overlapping form or motion,"Describes gestures as similar, complex, or liable to be confused because of shared posture or motion.",8
+GE02,Gesture,Simpler faster or one-handed,"Recommends shorter, simpler, faster, or one-handed gestures.",3
